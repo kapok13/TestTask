@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test task</string>
+    <string name="next">Далее</string>
+    <string name="view_problem">Проблемы с отображение вью</string>
+</resources>
